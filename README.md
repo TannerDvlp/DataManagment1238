@@ -26,7 +26,7 @@ Shortcuts that I frequently use:
 - Ctrl-V (Paste)
 - Ctrl-X (Cut)
 - Ctrl-Z (Undo)
-- Ctrl-Shift-T (Open previously closed Tab in browser
+- Ctrl-Shift-T (Open previously closed Tab in browser)
 - Windows Key-Shift-S (Screenshot)
 
 Shortcuts I would like to start using:
