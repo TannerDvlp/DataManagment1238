@@ -16,6 +16,8 @@
 - [Stu-view GBC](https://stuview.georgebrown.ca/)
 - [Cinema](https://i.kym-cdn.com/photos/images/newsfeed/002/693/282/5cb)
 - [Search Expirements](https://tannerdvlp.github.io/DataManagment1238/experiments)
+- [CLi Commands](https://tannerdvlp.github.io/DataManagment1238/Docs/CLi)
+
 
 # Expirements
 😆😁💥⭐🏃🥇🧮 🐰
